@@ -1,0 +1,13 @@
+numpy
+pandas
+transformers>=4.56.1
+scikit-learn
+datasets
+accelerate
+matplotlib
+deepsig
+sparsemax
+codecarbon>=3
+torchmetrics
+optuna>=4.3.0
+shap>=0.47.2
